@@ -81,8 +81,8 @@ a:hover {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 15px;
-  width: 25px;
+  height: 20px;
+  width: 30px;
   cursor: pointer;
 }
 
@@ -97,7 +97,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.164);
+  background-color: white;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
