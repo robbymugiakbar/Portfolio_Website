@@ -97,7 +97,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: rgba(63, 84, 87, 0);
+  background-color: rgba(0, 0, 0, 0.164);
   width: fit-content;
   max-height: 0;
   overflow: hidden;
